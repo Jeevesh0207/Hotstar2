@@ -227,7 +227,7 @@
     border-radius: 10px;
     /* animation: topbaranime 4s linear infinite alternate; */
     transition: all 1s;
-    overflow: scroll;
+    
 }
 
 .main .right .top_bar_left::-webkit-scrollbar{
