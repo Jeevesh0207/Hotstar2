@@ -304,7 +304,8 @@
 }
 
 .main .right .topbarright .infobox .box2 {
-    margin-left: 20px;
+    padding-left:20px;
+    box-sizing:border-box;
 }
 
 .main .right .topbarright .infobox .box2 p {
@@ -313,7 +314,8 @@
 }
 
 .main .right .topbarright .infobox .box3 {
-    margin: 10px 20px;
+    padding:10px 0 0 20px;
+    box-sizing:border-box;
 }
 
 .main .right .topbarright .infobox .box3 button {
